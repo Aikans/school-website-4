@@ -1,0 +1,45 @@
+.menu{
+    position:fixed;
+    background-color: white;
+    width:100px;
+    margin-top: 0%;
+    top: 0%;
+    z-index: 10;
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.travel_maindiv img{
+    width:100%;
+  
+  }
+  .travel_maindiv h5,.travel_maindiv p {
+      margin:20px;
+  
+  }
+  .travel_maindiv {
+   border: 1px solid lightgray;
+  
+  }
+  .movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: orange;
+}
+#contact iframe{
+    width: 100%;
+}
+.new{
+    margin-bottom: 20px;
+}
